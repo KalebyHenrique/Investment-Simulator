@@ -1,0 +1,11 @@
+#loading {
+  padding-top: 10px;
+}
+#loading,
+#resultado {
+  display: none;
+}
+.container {
+  margin-bottom: 20px;
+  max-width: 900px;
+}
